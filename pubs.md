@@ -8,12 +8,8 @@ description: Manish Yadav's portfolio
     <div class="navbar-inner">
         <ul class="nav">
             <li><a href="#Stand-alone projects">Stand-alone projects</a></li>
-            <li><a href="#articles">articles</a></li>
-            <li><a href="#editorials">editorials</a></li>
-            <li><a href="#letters">letters</a></li>
-            <li><a href="#chapters">chapters</a></li>
-            <li><a href="#techreports">tech reports</a></li>
-            <li><a href="#thesis">dissertation</a></li>
+            <li><a href="#Blogs">Blogs</a></li>
+            <li><a href="#Quora">Quora</a></li>
         </ul>
     </div>
 </div>
@@ -34,3 +30,20 @@ Estimating betas by regressing stock returns (Rj) against market returns (Rm) an
 
 #### Weight allocation through Sharpe Ratio and Minimum Volatility Optimization
 Smart weight allocation in portfolio through the means of Sharpe Ratio and Minimum Volatility optimization. Investment universe explored in this exercise consists of following instruments: JUNIORBEES, NIFTYBEES, GOLDBEES and RRSLGETF. The code can be found [here](https://github.com/mnsh16/Finance/blob/master/Maximum%20Sharpe%20Ratio_23FEB2019.ipynb).
+
+### <a name="Blogs"></a>Blogs
+
+#### Foray into companies experiencing price momentum backed by quality growth
+[tickertape blog](https://blog.tickertape.in/foray-into-companies-experiencing-price-momentum-backed-by-quality-growth/)
+
+#### Demystifying the corporate tax rate cut saga
+[Medium](https://medium.com/@manishyadav.iitk16/demystifying-the-corporate-tax-rate-cut-saga-8c08b0df005)
+
+
+### <a name="Quora"></a>Quora
+
+#### What do IIT alumns miss/remember of IIT the most?
+[Quora](https://qr.ae/pN6VNi)
+
+#### What is the best way to start preparing for the Chartered Financial Analyst (CFA) Exam?
+[Quora](https://qr.ae/pN6VGk)
