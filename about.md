@@ -22,11 +22,10 @@ I enjoy development of low frequency quantitative investment strategies and have
             Manish Yadav<br/>
             Bengaluru, Karnataka<br/>
             India<br/><br/>
-            <a href="https://www.linkedin.com/in/manishyadaviitk/">Linkedin</div>a><br/>
-            <a href="https://www.linkedin.com/in/manishyadaviitk/">Linkedin</div>a><br/>
-            <a href="https://twitter.com/manishy_iitk16">Twitter</div>a><br/>
-            <a href="https://medium.com/@manishyadav.iitk16">Medium</div>a><br/>
-                      
+            <a href="https://www.linkedin.com/in/manishyadaviitk/">Linkedin</a><br/>
+            <a href="https://twitter.com/manishy_iitk16">Twitter</a><br/>
+            <a href="https://medium.com/@manishyadav.iitk16">Medium</a><br/>
+
 
             <div id="hide_email">
             Email: <code>manish</code><b>I</b><code>yadav.iitk16</code><b>don't</b><code>@</code><b>want</b><code></code><b>spam!
