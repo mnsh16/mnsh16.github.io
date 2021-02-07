@@ -9,7 +9,7 @@ description: Manish Yadav; Investment Professional; Quantitative Equity Investin
 
 ## About
 
-I enjoy development of low frequency quantitative investment strategies and have over 1.5 years' of experience in quantitative research and portfolio management working on systematic strategies and thematic portfolios at Windmill Capital(https://windmillcapital.smallcase.com/). Previously, I have over 3 years' experience in credit research and risk management at Axis Bank. I have done my Bachelor of technology in Computational Biology and Master of Technology in Industrial Engineering from IIT Kanpur. I have also cleared CFA level II examination from CFA Institute(US). I enjoy understanding the nuances of capital markets leveraging alternative data, data science, and machine learning techniques. 
+I enjoy development of low frequency quantitative investment strategies and have over 1.5 years' of experience in quantitative research and portfolio management working on systematic strategies and thematic portfolios at [Windmill Capital](https://windmillcapital.smallcase.com/). Previously, I have over 3 years' experience in credit research and risk management at Axis Bank. I have done my Bachelor of technology in Computational Biology and Master of Technology in Industrial Engineering from IIT Kanpur. I have also cleared CFA level II examination from CFA Institute(US). I enjoy understanding the nuances of capital markets leveraging alternative data, data science, and machine learning techniques. 
 
 Social Media Links: [Linkedin](https://www.linkedin.com/in/manishyadaviitk/), [Twitter](https://twitter.com/manishy_iitk16), [Medium](https://medium.com/@manishyadav.iitk16) 
 
