@@ -21,9 +21,10 @@ keywords: Manish Yadav; Investment Professional; Quantitative Equity Investing; 
   <td class="left">
         <img src="publpics/Dilbert-On-Investing1.png" alt="Investing Shenanigans" title="Investing Shenanigans"/>
   </td>
-  <td class="right">
+</tr>
+<tr>
+  <td class="left">
         <img src="publpics/FunnyTraderEmotionChart1.png" alt="Funny Trader Emotion" title="Funny Trader Emotion"/>
   </td>
 </tr>
-
 </table>
