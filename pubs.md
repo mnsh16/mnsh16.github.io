@@ -31,6 +31,8 @@ Estimating betas by regressing stock returns (Rj) against market returns (Rm) an
 #### Weight allocation through Sharpe Ratio and Minimum Volatility Optimization
 Smart weight allocation in portfolio through the means of Sharpe Ratio and Minimum Volatility optimization. Investment universe explored in this exercise consists of following instruments: JUNIORBEES, NIFTYBEES, GOLDBEES and RRSLGETF. The code can be found [here](https://github.com/mnsh16/Finance/blob/master/Maximum%20Sharpe%20Ratio_23FEB2019.ipynb).
 
+---
+
 ### <a name="Blogs"></a>Blogs
 
 #### Foray into companies experiencing price momentum backed by quality growth
@@ -38,6 +40,8 @@ Smart weight allocation in portfolio through the means of Sharpe Ratio and Minim
 
 #### Demystifying the corporate tax rate cut saga
 [Medium](https://medium.com/@manishyadav.iitk16/demystifying-the-corporate-tax-rate-cut-saga-8c08b0df005)
+
+---
 
 
 ### <a name="Quora"></a>Quora

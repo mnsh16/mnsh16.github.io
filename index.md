@@ -10,7 +10,7 @@ keywords: Manish Yadav; Investment Professional; Quantitative Equity Investing; 
       <ul class="nav">
           <li><a href="https://www.linkedin.com/in/manishyadaviitk/">Linkedin</a></li>
           <li><a href="https://github.com/mnsh16">github</a></li>
-          <li><a href="https://kbroman.org/blog">blog</a></li>
+          <li><a href="https://mnsh16.github.io/pubs.html">blog</a></li>
           <li><a href="https://twitter.com/manishy_iitk16">@manishy_iitk16</a></li>
       </ul>
   </div>
