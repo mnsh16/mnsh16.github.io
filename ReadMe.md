@@ -2,7 +2,7 @@
 
 See [mnsh16.github.io](https://mnsh16.github.io).
 
-This website is based on the [blog](http://kbroman.org/blog) shared by [Karl Broman](https://kbroman.org/)
+This website is based on the [blog](https://kbroman.org/simple_site/) shared by [Karl Broman](https://kbroman.org/)
 
 
 
